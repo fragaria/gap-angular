@@ -9,7 +9,7 @@ Adds Angular.js support for [GAP](https://github.com/czervenka/gap) project.
 1. Install [npm](https://npmjs.org/) if you don't have one already
 2. Create GAP project by running `gap start-project <project-id>` (see [README](https://github.com/czervenka/gap/blob/master/README.rst))
 3. Open GAP project `cd <project-id>`
-3. Clone GAP Angular `git clone git@github.com:fragaria/gap-angular.git frontend-conf` (Directory name can be different)
+3. Clone GAP Angular `git clone git@github.com:fragaria/gap-angular.git frontend.conf`
 4. `cd frontend-conf`
 5. Run `npm install`. It may ask for administrator password if **Grunt** or **Bower** is not installed.
 6. Run `./init-angular.sh` to initialize project files.
